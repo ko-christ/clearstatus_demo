@@ -24,7 +24,7 @@ max_severity: down
 
 # Current severity: used for current issue display
 # current_severity: ok | disrupted | down | monitoring | maintenance
-current_severity: ok
+current_severity: down
 
 # Full date: 2019-03-29 17:26:09
 resolved_on:
